@@ -3,16 +3,10 @@ Laravel Form Request adaptation for Lumen framework
 
 ### How to install
 
-**Lumen 5.5**
-
-```
-composer require urameshibr/lumen-form-request:1.4
-```
-
 **Lumen 5.6 +**
 
 ```
-composer require urameshibr/lumen-form-request
+composer require seytar/lumen-form-request
 ```
 
 * Add the service provider in bootstrap/app.php
